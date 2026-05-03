@@ -10,7 +10,7 @@
 - 커스텀 도메인: `http://www.kcli.ai.kr`
 - 빌드 도구: 사용하지 않음
 
-이 저장소는 `.github/workflows/deploy-pages.yml` 워크플로를 통해 루트 정적 파일을 GitHub Pages로 업로드하도록 구성합니다. 저장소 Settings > Pages에서 배포 소스가 GitHub Actions로 설정되어 있는지 확인하세요.
+이 저장소는 `.github/workflows/pages.yml` 워크플로를 통해 루트 정적 파일을 GitHub Pages로 업로드하도록 구성합니다. 저장소 Settings > Pages에서 배포 소스가 GitHub Actions로 설정되어 있는지 확인하세요.
 
 ## 커스텀 도메인 DNS 안내
 
